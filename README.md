@@ -14,5 +14,4 @@ A beginner-friendly, static personal portfolio website built with HTML and CSS. 
 * CSS3
 
 ## Author
-Atteka Ryaz
-My-Portfolio_Web_Programming_Internship
+Atteka Ryaz  My_Portfolio_Web_Programming_Internship
